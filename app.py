@@ -1,7 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 13 21:25:58 2020
+
+@author: mangi
+"""
 import pickle
 import numpy as np
-from flask import Flask, request, jsonify,render_template
-import pandas as pd
+from flask import Flask, request,render_template
 
 
 
